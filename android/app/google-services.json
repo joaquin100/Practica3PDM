@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "890884076408",
+    "firebase_url": "https://pdm2020-1b01d.firebaseio.com",
+    "project_id": "pdm2020-1b01d",
+    "storage_bucket": "pdm2020-1b01d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890884076408:android:eb6bf9c0157d2935380e8d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890884076408-4emp3k6ak3150ue08kv2bb3eqctps9de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_storage_app",
+            "certificate_hash": "599a13941264ffe35727a3f135d60d79f7ad3342"
+          }
+        },
+        {
+          "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDou71iN7PRF_933_Nyg1zzfVYbCXhSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890884076408:android:762acd2e2ea30c99380e8d",
+        "android_client_info": {
+          "package_name": "com.example.image_labeling_and_barcodes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890884076408-l3r91t4og4ui3a7gkll5sb3c56bukrma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.image_labeling_and_barcodes",
+            "certificate_hash": "599a13941264ffe35727a3f135d60d79f7ad3342"
+          }
+        },
+        {
+          "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDou71iN7PRF_933_Nyg1zzfVYbCXhSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890884076408:android:dd25a5a6620c1fd4380e8d",
+        "android_client_info": {
+          "package_name": "com.example.proyectoPDMiServices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890884076408-6mgv7jgeatubau1ood606b3cp91glp5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectoPDMiServices",
+            "certificate_hash": "599a13941264ffe35727a3f135d60d79f7ad3342"
+          }
+        },
+        {
+          "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDou71iN7PRF_933_Nyg1zzfVYbCXhSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890884076408:android:195c7eadcf8217f1380e8d",
+        "android_client_info": {
+          "package_name": "mx.iteso.noticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890884076408-ohftok9ibd61uo0t44o71vnrrc5qqe8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.iteso.noticias",
+            "certificate_hash": "599a13941264ffe35727a3f135d60d79f7ad3342"
+          }
+        },
+        {
+          "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDou71iN7PRF_933_Nyg1zzfVYbCXhSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890884076408-2uoprf0icg5dl69udpgq428mr1092b8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
